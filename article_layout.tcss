@@ -1,0 +1,19 @@
+#article-title {
+    text-align: center;
+    text-style: bold;
+    margin: 2;
+}
+
+#article-text {
+    margin: 2 5 2 5;
+}
+
+ArticleScreen.-maximized {
+    width: 400;
+    color: green;
+    background: yellow;
+}
+
+ArticleScreen {
+    color: red;
+}
